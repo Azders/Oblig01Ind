@@ -1,4 +1,3 @@
-use context essentials2021
 
 # Definering av hver del i flagget, her er det benyttet ulike "hele" rektangler. 
 background = rectangle(1000, 600, "solid", "crimson")
